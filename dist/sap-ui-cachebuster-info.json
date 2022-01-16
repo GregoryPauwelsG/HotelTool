@@ -1,0 +1,22 @@
+{
+  "Component-dbg.js": 1642264378115,
+  "Component.js": 1642264378115,
+  "utils/locate-reuse-libs.js": 1640959273382,
+  "test/changes_preview.js": 1640959273378,
+  "test/changes_loader.js": 1640959273378,
+  "localService/mockserver.js": 1640959273378,
+  "manifest.json": 1642321074821,
+  "manifest-bundle.zip": 1642321082068,
+  "Component-preload.js": 1642321082251,
+  "utils/locate-reuse-libs-dbg.js": 1640959273382,
+  "test/changes_preview-dbg.js": 1640959273378,
+  "test/changes_loader-dbg.js": 1640959273378,
+  "localService/mockserver-dbg.js": 1640959273378,
+  "i18n/i18n.properties": 1640959273374,
+  "test/flpSandboxMockServer.html": 1640959273382,
+  "test/flpSandbox.html": 1640959273382,
+  "localService/metadata.xml": 1640959273402,
+  "localService/ZSD_031_C_HOTEL_CDS_VAN.xml": 1640959273386,
+  "annotations/annotation.xml": 1640959273374,
+  "index.html": 1642262386983
+}

@@ -1,0 +1,1 @@
+sap.ui.define(["sap/suite/ui/generic/template/lib/AppComponent","sap/f/LayoutType"],function(e,t){return e.extend("zsd031hoteltool.Component",{metadata:{manifest:"json"}})});
